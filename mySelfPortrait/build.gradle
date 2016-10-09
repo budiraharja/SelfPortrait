@@ -1,0 +1,48 @@
+import org.apache.tools.ant.taskdefs.condition.Os
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 11
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "org.opencv.samples.selfpotrait"
+        minSdkVersion 11
+        targetSdkVersion 11
+
+        ndk {
+            moduleName "detection_based_tracker"
+        }
+    }
+
+    sourceSets.main {
+        jniLibs.srcDir 'src/main/libs' //set .so files directory to libs
+        jni.srcDirs = [] //disable automatic ndk-build call
+    }
+
+    // call regular ndk-build(.cmd) script from app directory
+    task ndkBuild(type: Exec) {
+        if (Os.isFamily(Os.FAMILY_WINDOWS)) {
+            commandLine 'ndk-build.cmd', '-C', file('src/main').absolutePath
+        } else {
+            commandLine 'ndk-build', '-C', file('src/main').absolutePath
+        }
+    }
+
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn ndkBuild
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':openCV')
+    compile 'com.android.support:support-v4:18.0.0'
+}

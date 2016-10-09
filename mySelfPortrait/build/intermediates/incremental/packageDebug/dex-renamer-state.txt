@@ -1,0 +1,7 @@
+#Sun Oct 09 23:16:38 ICT 2016
+base.0=D\:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3f90ecb7d126cd4e89f24c2ca7bd12fe621e944f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_630969a9e7c89377a4378beb040c6208cc5928d6\\classes.dex
+base.1=D\:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_630969a9e7c89377a4378beb040c6208cc5928d6
+file.0=D\:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3f90ecb7d126cd4e89f24c2ca7bd12fe621e944f\\classes.dex

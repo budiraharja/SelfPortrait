@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MySelfPotrait.iml" filepath="$PROJECT_DIR$/MySelfPotrait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mySelfPortrait/mySelfPortrait.iml" filepath="$PROJECT_DIR$/mySelfPortrait/mySelfPortrait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCV/openCV.iml" filepath="$PROJECT_DIR$/openCV/openCV.iml" />
+    </modules>
+  </component>
+</project>

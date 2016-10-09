@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 52,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 52,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 52,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 50,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 50,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 73,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 73,
+                        "endOffset": 288
+                    }
+                }
+            }
+        ]
+    }
+]

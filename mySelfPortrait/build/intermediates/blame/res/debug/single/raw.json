@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_nose.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_nose.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\palm.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\palm.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_default.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_frontalface_default.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\hand.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\hand.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_lefteye.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_lefteye.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_eye_tree_eyeglasses.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_eye_tree_eyeglasses.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_righteye.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_righteye.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_eyepair_small.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_eyepair_small.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_frontalface_alt.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_mouth.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_mouth.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_eye.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_eye.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\fist.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\fist.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_mcs_eyepair_big.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_mcs_eyepair_big.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_profileface.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_profileface.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt2.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_frontalface_alt2.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_fullbody.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_fullbody.xml"
+    },
+    {
+        "merged": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt_tree.xml",
+        "source": "D:\\Data\\Belajar\\AndroidStudio\\MySelfPotrait\\mySelfPortrait\\src\\main\\res\\raw\\haarcascade_frontalface_alt_tree.xml"
+    }
+]
